@@ -63,12 +63,17 @@ section {
   border-left: 7px solid;
   border-image: linear-gradient(lightsalmon, tomato);
   border-image-slice: 1;
+  padding: 20px;
 }
 #baby-web {
   border-left: 7px solid;
   border-image: linear-gradient(180deg, blue, cyan);
   border-image-slice: 1;
+  padding: 20px;
 }
 footer p {
   text-align: center;
+  padding: 20px;
+  background-color: black;
+  color: white;
 }
